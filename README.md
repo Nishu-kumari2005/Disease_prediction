@@ -61,8 +61,8 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 
 * **Name**: Rishabh Dubey
 * **Tech Stack**: Python, Flask, Tailwind CSS
-* **GitHub**: [github.com/rishabh3562](https://github.com/rishabh3562)
-* **Email**: [dubeyrishabh108@gmail.com](mailto:dubeyrishabh108@gmail.com)
+* **GitHub**: [github.com/Nishu-kumari2005](https://github.com/Nishu-kumari2005)
+* **Email**: [Nishu.kumari2000058@gmail.com](mailto:nishu.kumari2000058@gmail.com)
 
 ---
 
